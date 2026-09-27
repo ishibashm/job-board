@@ -1,0 +1,344 @@
+{
+  "updatedAt": "2026-09-23T20:09:43.526335+09:00",
+  "jobs": [
+    {
+      "id": "job-9f48310b92a8d183",
+      "title": "設備管理/プラント・エンジニアリング",
+      "company": "株式会社アトックス",
+      "source": "jobboard",
+      "location": "福井県小浜市",
+      "salary": "年収 380万円以上",
+      "summary": "株式会社アトックスの設備管理/プラント・エンジニアリングの募集。",
+      "url": "",
+      "receivedAt": "2026-09-23T10:42:52Z",
+      "tags": [
+        "プラント・設備"
+      ]
+    },
+    {
+      "id": "job-54ac7047d327ff83",
+      "title": "サーバーエンジニア",
+      "company": "株式会社サムライ・ソフト",
+      "source": "jobboard",
+      "location": "島根県出雲市 / フルリモート可",
+      "salary": "月給 28万円〜60万円",
+      "summary": "ゲーム開発会社でのサーバーエンジニアの募集。フルリモート可、年間休日125日。",
+      "url": "",
+      "receivedAt": "2026-09-23T10:38:50Z",
+      "tags": [
+        "リモート可",
+        "ソフトウェア開発"
+      ]
+    },
+    {
+      "id": "job-9a6fb2eb404d1b95",
+      "title": "公募（詳細はBizReach）",
+      "company": "株式会社モルテン",
+      "source": "jobboard",
+      "location": "",
+      "salary": "",
+      "summary": "株式会社モルテンの公募案内。掲載情報上の募集期限は2026年10月13日。",
+      "url": "https://www.bizreach.jp/job-feed/public-advertising/44e381j/",
+      "receivedAt": "2026-09-23T03:05:07Z",
+      "tags": []
+    },
+    {
+      "id": "job-1fc176a603c76103",
+      "title": "Network Maintenance Engineer",
+      "company": "CLPS Global",
+      "source": "linkedin",
+      "location": "京都",
+      "salary": "",
+      "summary": "京都でLAN・WLAN・SD-WANの現地サポートを担当するネットワークエンジニアの募集。",
+      "url": "https://www.linkedin.com/jobs/view/4470242516",
+      "receivedAt": "2026-09-23T01:40:28Z",
+      "tags": [
+        "インフラ"
+      ]
+    },
+    {
+      "id": "job-0054820d8055335e",
+      "title": "Technical Support Engineer Japan",
+      "company": "Intralox",
+      "source": "linkedin",
+      "location": "日本",
+      "salary": "",
+      "summary": "IntraloxのTechnical Support Engineer Japanの募集。",
+      "url": "https://www.linkedin.com/jobs/view/4466300785",
+      "receivedAt": "2026-09-22T23:40:28Z",
+      "tags": [
+        "テクニカルサポート"
+      ]
+    },
+    {
+      "id": "job-b2f56b4269098ded",
+      "title": "Field Service Engineer",
+      "company": "Mase Consulting Ltd",
+      "source": "linkedin",
+      "location": "日本",
+      "salary": "¥600万〜¥700万/年",
+      "summary": "Mase Consulting LtdのField Service Engineerの募集。",
+      "url": "https://www.linkedin.com/jobs/view/4460042277",
+      "receivedAt": "2026-09-21T23:40:31Z",
+      "tags": [
+        "フィールドエンジニア"
+      ]
+    },
+    {
+      "id": "job-dc191a89a35e33f9",
+      "title": "Senior Mechanical Field Engineer",
+      "company": "FieldCore (GE Vernova)",
+      "source": "linkedin",
+      "location": "",
+      "salary": "",
+      "summary": "FieldCore (GE Vernova)のSenior Mechanical Field Engineerの募集。",
+      "url": "",
+      "receivedAt": "2026-09-21T01:40:29Z",
+      "tags": [
+        "フィールドエンジニア"
+      ]
+    },
+    {
+      "id": "job-1fc3d2a0a9fbd2ac",
+      "title": "ソフトウェアエンジニア",
+      "company": "株式会社ファイブシーズ",
+      "source": "linkedin",
+      "location": "",
+      "salary": "",
+      "summary": "株式会社ファイブシーズのソフトウェアエンジニアの募集。",
+      "url": "",
+      "receivedAt": "2026-09-20T23:40:28Z",
+      "tags": [
+        "ソフトウェア開発"
+      ]
+    },
+    {
+      "id": "job-a2925b91a9519ae2",
+      "title": "Field Service Engineer",
+      "company": "Edwards Vacuum",
+      "source": "linkedin",
+      "location": "台南市 (Taiwan)",
+      "salary": "",
+      "summary": "Edwards VacuumのField Service Engineerの募集。",
+      "url": "https://www.linkedin.com/jobs/view/4438465398",
+      "receivedAt": "2026-09-20T01:40:30Z",
+      "tags": [
+        "フィールドエンジニア"
+      ]
+    },
+    {
+      "id": "job-c3b4634350f184cb",
+      "title": "Field Service Engineer(京滋)",
+      "company": "GE HealthCare",
+      "source": "linkedin",
+      "location": "宇治 / 京滋",
+      "salary": "",
+      "summary": "宇治を拠点に京都・滋賀を担当するフィールドサービスエンジニアの募集。",
+      "url": "https://www.linkedin.com/jobs/view/4459823138",
+      "receivedAt": "2026-09-19T23:40:28Z",
+      "tags": [
+        "フィールドエンジニア"
+      ]
+    },
+    {
+      "id": "job-f91cec1272eb1d4c",
+      "title": "Field Engineer",
+      "company": "Cytiva",
+      "source": "linkedin",
+      "location": "",
+      "salary": "",
+      "summary": "CytivaのField Engineerの募集。",
+      "url": "",
+      "receivedAt": "2026-09-19T01:40:30Z",
+      "tags": [
+        "フィールドエンジニア"
+      ]
+    },
+    {
+      "id": "job-58647786d1563064",
+      "title": "Plant Engineer Shiga",
+      "company": "Bayer",
+      "source": "linkedin",
+      "location": "滋賀県, 日本",
+      "salary": "",
+      "summary": "BayerのPlant Engineer Shigaの募集。",
+      "url": "https://www.linkedin.com/jobs/view/4459668288",
+      "receivedAt": "2026-09-18T23:40:30Z",
+      "tags": [
+        "プラント・設備"
+      ]
+    },
+    {
+      "id": "job-32b48d2215ec37a9",
+      "title": "EPI Customer Engineer II",
+      "company": "Applied Materials Japan",
+      "source": "linkedin",
+      "location": "",
+      "salary": "",
+      "summary": "Applied Materials JapanのEPI Customer Engineer IIの募集。",
+      "url": "",
+      "receivedAt": "2026-09-18T01:40:30Z",
+      "tags": []
+    },
+    {
+      "id": "job-852dbf0ee124f150",
+      "title": "Field Service Engineer - Japan",
+      "company": "TOMRA",
+      "source": "linkedin",
+      "location": "日本 / 港区",
+      "salary": "",
+      "summary": "TOMRAのField Service Engineer - Japanの募集。",
+      "url": "https://www.linkedin.com/jobs/view/4455314424",
+      "receivedAt": "2026-09-17T23:40:30Z",
+      "tags": [
+        "フィールドエンジニア"
+      ]
+    },
+    {
+      "id": "job-5f58d8deacb5ccdb",
+      "title": "Greenfield Process Engineer",
+      "company": "The Coca-Cola Company",
+      "source": "linkedin",
+      "location": "滋賀県, 日本",
+      "salary": "",
+      "summary": "The Coca-Cola CompanyのGreenfield Process Engineerの募集。",
+      "url": "https://www.linkedin.com/jobs/view/4467871204",
+      "receivedAt": "2026-09-17T01:40:29Z",
+      "tags": [
+        "プラント・設備"
+      ]
+    },
+    {
+      "id": "job-443a5032248721fd",
+      "title": "Platform Engineer (Fully Remote)",
+      "company": "BLOOMTECH, Inc",
+      "source": "linkedin",
+      "location": "日本",
+      "salary": "",
+      "summary": "BLOOMTECH, IncのPlatform Engineer (Fully Remote)の募集。",
+      "url": "https://www.linkedin.com/jobs/view/4465970835",
+      "receivedAt": "2026-09-16T23:40:28Z",
+      "tags": [
+        "リモート可",
+        "インフラ"
+      ]
+    },
+    {
+      "id": "job-fc3bf6c49f0a05d9",
+      "title": "Process Engineer",
+      "company": "The Coca-Cola Company",
+      "source": "linkedin",
+      "location": "",
+      "salary": "",
+      "summary": "The Coca-Cola CompanyのProcess Engineerの募集。",
+      "url": "",
+      "receivedAt": "2026-09-16T01:40:30Z",
+      "tags": [
+        "プラント・設備"
+      ]
+    },
+    {
+      "id": "job-f2432b4779853eaf",
+      "title": "QA Engineer Fully Remote",
+      "company": "BLOOMTECH, Inc",
+      "source": "linkedin",
+      "location": "日本",
+      "salary": "",
+      "summary": "BLOOMTECH, IncのQA Engineer Fully Remoteの募集。",
+      "url": "",
+      "receivedAt": "2026-09-15T23:40:31Z",
+      "tags": [
+        "リモート可",
+        "品質・テスト"
+      ]
+    },
+    {
+      "id": "job-de4552fc49566e3d",
+      "title": "Test Engineer",
+      "company": "NVIDIA",
+      "source": "linkedin",
+      "location": "",
+      "salary": "",
+      "summary": "NVIDIAのTest Engineerの募集。",
+      "url": "",
+      "receivedAt": "2026-09-15T01:40:31Z",
+      "tags": [
+        "品質・テスト"
+      ]
+    },
+    {
+      "id": "job-e6716dd6a7d7ae69",
+      "title": "調理家電製品の制御ハードウェア開発・設計",
+      "company": "パナソニック",
+      "source": "linkedin",
+      "location": "滋賀県草津市",
+      "salary": "",
+      "summary": "パナソニックの調理家電製品の制御ハードウェア開発・設計の募集。",
+      "url": "https://www.linkedin.com/jobs/view/4464760444",
+      "receivedAt": "2026-09-14T23:40:31Z",
+      "tags": [
+        "ハードウェア"
+      ]
+    },
+    {
+      "id": "job-84b01a179d784777",
+      "title": "IT Support Engineer I, リモートサポート, OTS Service Desk JP",
+      "company": "Amazon",
+      "source": "linkedin",
+      "location": "日本",
+      "salary": "",
+      "summary": "AmazonのIT Support Engineer I, リモートサポート, OTS Service Desk JPの募集。",
+      "url": "https://www.linkedin.com/jobs/view/4455904879",
+      "receivedAt": "2026-09-11T01:40:30Z",
+      "tags": [
+        "リモート可",
+        "テクニカルサポート"
+      ]
+    },
+    {
+      "id": "job-9de6a18b876c1e1e",
+      "title": "システムエンジニア（全国フルリモート可・プライム案件）",
+      "company": "株式会社ｆｕｎａｋｕ (via doda)",
+      "source": "linkedin",
+      "location": "大阪 / フルリモート可",
+      "salary": "",
+      "summary": "株式会社ｆｕｎａｋｕ (via doda)のシステムエンジニア（全国フルリモート可・プライム案件）の募集。",
+      "url": "https://www.linkedin.com/jobs/view/4464364496",
+      "receivedAt": "2026-09-09T01:40:28Z",
+      "tags": [
+        "リモート可",
+        "ソフトウェア開発"
+      ]
+    },
+    {
+      "id": "job-d64daa235d708462",
+      "title": "PLCプログラムコード自動生成・コンバート・要約検索 設計者（プロンプト/エージェント）",
+      "company": "オムロングループ",
+      "source": "linkedin",
+      "location": "",
+      "salary": "",
+      "summary": "オムロングループのPLCプログラムコード自動生成・コンバート・要約検索 設計者（プロンプト/エージェント）の募集。",
+      "url": "",
+      "receivedAt": "2026-09-08T01:40:27Z",
+      "tags": [
+        "PLC",
+        "AI"
+      ]
+    },
+    {
+      "id": "job-20a06c21212c6187",
+      "title": "Technical Support Engineer - Fully Remote | Night Shift",
+      "company": "Robert Walters",
+      "source": "linkedin",
+      "location": "リモート",
+      "salary": "",
+      "summary": "Robert Waltersが紹介するテクニカルサポートエンジニアの募集。フルリモート・夜勤。",
+      "url": "",
+      "receivedAt": "2026-08-09T23:40:29Z",
+      "tags": [
+        "リモート可",
+        "テクニカルサポート"
+      ]
+    }
+  ]
+}
