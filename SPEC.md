@@ -20,7 +20,7 @@ Updated daily by an automation that refreshes `data/jobs.json`.
       "id": "stable-unique-id",
       "title": "職種名",
       "company": "会社または紹介元",
-      "source": "linkedin|agency|jobboard|direct|other",
+      "source": "linkedin|indeed|agency|jobboard|direct|other",
       "location": "勤務地 or リモート",
       "salary": "記載があれば",
       "summary": "1〜2文の要約（個人情報なし）",
@@ -39,3 +39,6 @@ Updated daily by an automation that refreshes `data/jobs.json`.
 4. Optional simple `scripts/validate-jobs.mjs` to validate JSON schema lightly.
 
 Do not invent a backend. Static only.
+
+## Indeed title filter (monorepo-only)
+Indeed jobs are filtered in the private monorepo via `config/job-filters.json` and `scripts/merge-jobs.mjs` (IT / engineer / DB titles). Those files stay monorepo-only and are never staged for the public mirror; only the filtered `data/jobs.json` is published.

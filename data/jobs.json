@@ -1,6 +1,398 @@
 {
-  "updatedAt": "2026-09-23T20:09:43.526335+09:00",
+  "updatedAt": "2026-10-04T03:44:26+09:00",
   "jobs": [
+    {
+      "title": "受発注管理システム 保守・テスト",
+      "company": "株式会社Go‐bling",
+      "source": "indeed",
+      "location": "島根県 出雲市周辺",
+      "salary": "月給 23万円 ~ 26万円",
+      "summary": "株式会社Go‐blingの「受発注管理システム 保守・テスト」の募集（Indeed求人アラートより）雇用形態：正社員。",
+      "url": "",
+      "receivedAt": "2026-10-03T13:02:15.000Z",
+      "tags": [
+        "正社員"
+      ],
+      "id": "indeed-ec4c50e8b699dbae"
+    },
+    {
+      "title": "ITシステム開発エンジニア",
+      "company": "株式会社kotatsu",
+      "source": "indeed",
+      "location": "東京都 渋谷区 代々木周辺",
+      "salary": "月給 50万円 ~ 100万円",
+      "summary": "株式会社kotatsuの「ITシステム開発エンジニア」の募集（Indeed求人アラートより）雇用形態：正社員。",
+      "url": "",
+      "receivedAt": "2026-10-03T10:27:22.000Z",
+      "tags": [
+        "正社員"
+      ],
+      "id": "indeed-f99516a4282d0a69"
+    },
+    {
+      "title": "Webシステム・受発注ツールのテスター",
+      "company": "株式会社笑楽堂",
+      "source": "indeed",
+      "location": "岐阜県 大垣市周辺",
+      "salary": "月給 23万円 ~ 27万円",
+      "summary": "株式会社笑楽堂の「Webシステム・受発注ツールのテスター」の募集（Indeed求人アラートより）雇用形態：正社員。",
+      "url": "",
+      "receivedAt": "2026-10-03T07:05:43.000Z",
+      "tags": [
+        "正社員"
+      ],
+      "id": "indeed-559bc7c880707069"
+    },
+    {
+      "title": "公募（詳細はBizReach）",
+      "company": "公益財団法人 日本オリンピック委員会",
+      "source": "jobboard",
+      "location": "",
+      "salary": "",
+      "summary": "公益財団法人 日本オリンピック委員会の公募案内。掲載情報上の募集期限は2026年10月22日。",
+      "url": "https://www.bizreach.jp/job-feed/public-advertising/nh6on1z/",
+      "receivedAt": "2026-10-03T03:30:33.000Z",
+      "tags": [],
+      "id": "bizreach-nh6on1z"
+    },
+    {
+      "title": "Senior Service Engineer",
+      "company": "Ingersoll Rand",
+      "source": "linkedin",
+      "location": "大阪府枚方市",
+      "salary": "",
+      "summary": "Ingersoll RandのSenior Service Engineer（エア処理機器）の募集。",
+      "url": "https://www.linkedin.com/jobs/view/4418933631/",
+      "receivedAt": "2026-10-03T01:40:31.000Z",
+      "tags": [
+        "フィールドエンジニア"
+      ],
+      "id": "linkedin-4418933631"
+    },
+    {
+      "title": "自社SaaSの開発エンジニア|月給35万円以上",
+      "company": "株式会社チビックシステム",
+      "source": "indeed",
+      "location": "東京都 渋谷区 代々木周辺",
+      "salary": "月給 35万円 ~ 45万円",
+      "summary": "株式会社チビックシステムの「自社SaaSの開発エンジニア|月給35万円以上」の募集（Indeed求人アラートより）雇用形態：正社員。",
+      "url": "",
+      "receivedAt": "2026-10-02T10:08:27.000Z",
+      "tags": [
+        "正社員"
+      ],
+      "id": "indeed-ec693fc77672bc0a"
+    },
+    {
+      "title": "(Sr. Staff / Staff Engineer) Design Characterization Engineer",
+      "company": "OMNIVISION",
+      "source": "linkedin",
+      "location": "京都",
+      "salary": "",
+      "summary": "OMNIVISIONのDesign Characterization Engineer（Staff/Sr. Staff）の募集。",
+      "url": "https://www.linkedin.com/jobs/view/4144172436/",
+      "receivedAt": "2026-10-02T01:40:30.000Z",
+      "tags": [
+        "半導体"
+      ],
+      "id": "linkedin-4144172436"
+    },
+    {
+      "title": "公募（詳細はBizReach）",
+      "company": "東京海上ホールディングス株式会社",
+      "source": "jobboard",
+      "location": "",
+      "salary": "",
+      "summary": "東京海上ホールディングス株式会社の公募案内。掲載情報上の募集期限は2026年10月21日。",
+      "url": "https://www.bizreach.jp/job-feed/public-advertising/k5f184u/",
+      "receivedAt": "2026-10-01T06:05:29.000Z",
+      "tags": [],
+      "id": "bizreach-k5f184u"
+    },
+    {
+      "title": "公募（詳細はBizReach）",
+      "company": "合同会社デロイト トーマツ",
+      "source": "jobboard",
+      "location": "",
+      "salary": "",
+      "summary": "合同会社デロイト トーマツの公募案内。掲載情報上の募集期限は2026年10月21日。",
+      "url": "https://www.bizreach.jp/job-feed/public-advertising/m23n5nd/",
+      "receivedAt": "2026-10-01T04:42:44.000Z",
+      "tags": [],
+      "id": "bizreach-jy7cbup"
+    },
+    {
+      "id": "job-58647786d1563064",
+      "title": "Plant Engineer Shiga",
+      "company": "Bayer",
+      "source": "linkedin",
+      "location": "滋賀県",
+      "salary": "",
+      "summary": "BayerのPlant Engineer（滋賀）の募集。",
+      "url": "https://www.linkedin.com/jobs/view/4459668288",
+      "receivedAt": "2026-10-01T01:40:31.000Z",
+      "tags": [
+        "プラント・設備"
+      ]
+    },
+    {
+      "title": "Webシステム・受発注ツールのテスター事務",
+      "company": "株式会社笑楽堂",
+      "source": "indeed",
+      "location": "岐阜県 大垣市周辺",
+      "salary": "月給 23万円 ~ 27万円",
+      "summary": "株式会社笑楽堂の「Webシステム・受発注ツールのテスター事務」の募集（Indeed求人アラートより）雇用形態：正社員。",
+      "url": "",
+      "receivedAt": "2026-09-30T07:17:45.000Z",
+      "tags": [
+        "正社員"
+      ],
+      "id": "indeed-975ea52f08889f05"
+    },
+    {
+      "title": "【制御機器事業】PLCプログラムコード自動生成、コンバート、要約検索 設計者（プロンプト、エージェント）",
+      "company": "OMRON Group",
+      "source": "linkedin",
+      "location": "京都",
+      "salary": "",
+      "summary": "OMRON Group制御機器事業でのPLCコード自動生成・AIエージェント設計者の募集。",
+      "url": "https://www.linkedin.com/jobs/view/4426907940/",
+      "receivedAt": "2026-09-29T03:40:31.000Z",
+      "tags": [
+        "ソフトウェア開発",
+        "AI"
+      ],
+      "id": "linkedin-4426907940"
+    },
+    {
+      "title": "公募（詳細はBizReach）",
+      "company": "警察庁",
+      "source": "jobboard",
+      "location": "",
+      "salary": "",
+      "summary": "警察庁の公募案内。掲載情報上の募集期限は2026年10月13日。",
+      "url": "https://www.bizreach.jp/job-feed/public-advertising/pq520fj/",
+      "receivedAt": "2026-09-29T03:05:57.000Z",
+      "tags": [],
+      "id": "bizreach-pq520fj"
+    },
+    {
+      "title": "Field Service Engineer",
+      "company": "Leica Biosystems",
+      "source": "linkedin",
+      "location": "横浜",
+      "salary": "",
+      "summary": "Leica BiosystemsのField Service Engineerの募集。",
+      "url": "https://www.linkedin.com/jobs/view/4470831815/",
+      "receivedAt": "2026-09-29T01:40:32.000Z",
+      "tags": [
+        "フィールドエンジニア"
+      ],
+      "id": "linkedin-4470831815"
+    },
+    {
+      "title": "公募（詳細はBizReach）",
+      "company": "株式会社GREENING",
+      "source": "jobboard",
+      "location": "",
+      "salary": "",
+      "summary": "株式会社GREENINGの公募案内。掲載情報上の募集期限は2026年10月14日。",
+      "url": "https://www.bizreach.jp/job-feed/public-advertising/v3u6exo/",
+      "receivedAt": "2026-09-28T03:06:16.000Z",
+      "tags": [],
+      "id": "bizreach-v3u6exo"
+    },
+    {
+      "title": "【制御機器事業】工場横串の生産技術部門の生産設備メカ設計担当（生産SCM本部）",
+      "company": "OMRON Group",
+      "source": "linkedin",
+      "location": "滋賀県草津市",
+      "salary": "",
+      "summary": "OMRON Group制御機器事業での生産設備メカ設計担当の募集。",
+      "url": "https://www.linkedin.com/jobs/view/4426927137/",
+      "receivedAt": "2026-09-28T01:40:29.000Z",
+      "tags": [
+        "機械設計",
+        "生産技術"
+      ],
+      "id": "linkedin-4426927137"
+    },
+    {
+      "title": "Field Process Engineer",
+      "company": "Lam Research",
+      "source": "linkedin",
+      "location": "日本",
+      "salary": "",
+      "summary": "Lam ResearchのField Process Engineerの募集。",
+      "url": "https://www.linkedin.com/jobs/view/4443870880/",
+      "receivedAt": "2026-09-27T23:40:29.000Z",
+      "tags": [
+        "プロセスエンジニア",
+        "半導体"
+      ],
+      "id": "linkedin-4443870880"
+    },
+    {
+      "title": "JP Field Service Engineer",
+      "company": "Lam Research",
+      "source": "linkedin",
+      "location": "日本",
+      "salary": "",
+      "summary": "Lam ResearchのField Service Engineer（日本）の募集。",
+      "url": "https://www.linkedin.com/jobs/view/4443832295/",
+      "receivedAt": "2026-09-27T01:40:28.000Z",
+      "tags": [
+        "フィールドエンジニア",
+        "半導体"
+      ],
+      "id": "linkedin-4443832295"
+    },
+    {
+      "title": "【制御機器事業】AI駆動・仕様駆動開発プロセス設計による変革推進（開発DX）",
+      "company": "OMRON Group",
+      "source": "linkedin",
+      "location": "京都",
+      "salary": "",
+      "summary": "OMRON Group制御機器事業でのAI駆動・仕様駆動開発プロセス設計（開発DX）の募集。",
+      "url": "https://www.linkedin.com/jobs/view/4443163485/",
+      "receivedAt": "2026-09-26T23:40:29.000Z",
+      "tags": [
+        "ソフトウェア開発",
+        "AI"
+      ],
+      "id": "linkedin-4443163485"
+    },
+    {
+      "title": "公募（詳細はBizReach）",
+      "company": "生和コーポレーション株式会社",
+      "source": "jobboard",
+      "location": "",
+      "salary": "",
+      "summary": "生和コーポレーション株式会社の公募案内。掲載情報上の募集期限は2026年10月12日。",
+      "url": "https://www.bizreach.jp/job-feed/public-advertising/8zwtlf6/",
+      "receivedAt": "2026-09-26T05:35:26.000Z",
+      "tags": [],
+      "id": "bizreach-8zwtlf6"
+    },
+    {
+      "title": "公募（詳細はBizReach）",
+      "company": "農林水産省",
+      "source": "jobboard",
+      "location": "",
+      "salary": "",
+      "summary": "農林水産省の公募案内。掲載情報上の募集期限は2026年10月13日。",
+      "url": "https://www.bizreach.jp/job-feed/public-advertising/z1mzkee/",
+      "receivedAt": "2026-09-26T03:05:10.000Z",
+      "tags": [],
+      "id": "bizreach-z1mzkee"
+    },
+    {
+      "title": "Field Service Engineer",
+      "company": "Agilent Technologies",
+      "source": "linkedin",
+      "location": "東京都港区",
+      "salary": "",
+      "summary": "Agilent TechnologiesのField Service Engineerの募集。",
+      "url": "https://www.linkedin.com/jobs/view/4471672752/",
+      "receivedAt": "2026-09-26T01:40:29.000Z",
+      "tags": [
+        "フィールドエンジニア"
+      ],
+      "id": "linkedin-4471672752"
+    },
+    {
+      "title": "【Aratas】安定稼働を支え、事業成長を切り拓くエンジニア（製造技術）",
+      "company": "OMRON Group",
+      "source": "linkedin",
+      "location": "野洲",
+      "salary": "",
+      "summary": "OMRON Groupの電子部品事業での製造技術エンジニアの募集。",
+      "url": "https://www.linkedin.com/jobs/view/4462804130/",
+      "receivedAt": "2026-09-25T23:40:28.000Z",
+      "tags": [
+        "生産技術"
+      ],
+      "id": "linkedin-4462804130"
+    },
+    {
+      "title": "公募（詳細はBizReach）",
+      "company": "株式会社ベガスベガス",
+      "source": "jobboard",
+      "location": "",
+      "salary": "",
+      "summary": "株式会社ベガスベガスの公募案内。掲載情報上の募集期限は2026年10月12日。",
+      "url": "https://www.bizreach.jp/job-feed/public-advertising/a92t068/",
+      "receivedAt": "2026-09-25T03:05:43.000Z",
+      "tags": [],
+      "id": "bizreach-a92t068"
+    },
+    {
+      "title": "【川崎／第二新卒歓迎】機械技術者 ※在宅可／海外経験も積める！／AGC100％子会社",
+      "company": "doda (デューダ)",
+      "source": "linkedin",
+      "location": "神奈川県",
+      "salary": "",
+      "summary": "AGCグループ企業での機械技術者の募集（doda掲載）。在宅可。",
+      "url": "https://www.linkedin.com/jobs/view/4471197147/",
+      "receivedAt": "2026-09-24T23:40:28.000Z",
+      "tags": [
+        "機械設計"
+      ],
+      "id": "linkedin-4471197147"
+    },
+    {
+      "title": "公募（詳細はBizReach）",
+      "company": "株式会社野村総合研究所",
+      "source": "jobboard",
+      "location": "",
+      "salary": "",
+      "summary": "株式会社野村総合研究所の公募案内。掲載情報上の募集期限は2026年10月14日。",
+      "url": "https://www.bizreach.jp/job-feed/public-advertising/3q9exad/",
+      "receivedAt": "2026-09-24T05:35:59.000Z",
+      "tags": [],
+      "id": "bizreach-3q9exad"
+    },
+    {
+      "title": "公募（詳細はBizReach）",
+      "company": "Anaplan Japan株式会社",
+      "source": "jobboard",
+      "location": "",
+      "salary": "",
+      "summary": "Anaplan Japan株式会社の公募案内。掲載情報上の募集期限は2026年10月13日。",
+      "url": "https://www.bizreach.jp/job-feed/public-advertising/8hvjrwx/",
+      "receivedAt": "2026-09-24T03:06:04.000Z",
+      "tags": [],
+      "id": "bizreach-8hvjrwx"
+    },
+    {
+      "title": "電機エンジニア",
+      "company": "株式会社オービット",
+      "source": "linkedin",
+      "location": "京都",
+      "salary": "",
+      "summary": "製造業向け外観検査装置メーカーでの電機エンジニアの募集。",
+      "url": "https://www.linkedin.com/jobs/view/4467196647/",
+      "receivedAt": "2026-09-24T01:40:30.000Z",
+      "tags": [
+        "電気・電子"
+      ],
+      "id": "linkedin-4467196647"
+    },
+    {
+      "title": "Platform Engineer_Fully Remote",
+      "company": "BLOOMTECH, Inc",
+      "source": "linkedin",
+      "location": "日本 / フルリモート",
+      "salary": "",
+      "summary": "BLOOMTECH, IncのPlatform Engineer（フルリモート）の募集。",
+      "url": "https://www.linkedin.com/jobs/view/4468942591/",
+      "receivedAt": "2026-09-23T23:40:28.000Z",
+      "tags": [
+        "リモート可",
+        "インフラ"
+      ],
+      "id": "linkedin-4468942591"
+    },
     {
       "id": "job-9f48310b92a8d183",
       "title": "設備管理/プラント・エンジニアリング",
@@ -152,20 +544,6 @@
       "receivedAt": "2026-09-19T01:40:30Z",
       "tags": [
         "フィールドエンジニア"
-      ]
-    },
-    {
-      "id": "job-58647786d1563064",
-      "title": "Plant Engineer Shiga",
-      "company": "Bayer",
-      "source": "linkedin",
-      "location": "滋賀県, 日本",
-      "salary": "",
-      "summary": "BayerのPlant Engineer Shigaの募集。",
-      "url": "https://www.linkedin.com/jobs/view/4459668288",
-      "receivedAt": "2026-09-18T23:40:30Z",
-      "tags": [
-        "プラント・設備"
       ]
     },
     {

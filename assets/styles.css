@@ -210,6 +210,7 @@ input::placeholder { color: #929b97; }
 .job-card__topline { display: flex; grid-column: 1 / -1; align-items: center; gap: 12px; }
 .source-badge { padding: 3px 9px; color: var(--green-800); background: var(--mint); border-radius: 999px; font-size: 11px; font-weight: 800; }
 .source-badge[data-source="jobboard"] { color: #76551d; background: #f6e7c9; }
+.source-badge[data-source="indeed"] { color: #31558a; background: #e4edf9; }
 .job-date { color: var(--muted); font-size: 12px; }
 .job-company { margin: 0 0 3px; color: var(--green-600); font-size: 14px; font-weight: 700; }
 .job-title { margin: 0; font-size: clamp(19px, 3vw, 24px); line-height: 1.45; }

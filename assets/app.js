@@ -18,6 +18,7 @@ const elements = {
 
 const sourceLabels = {
   linkedin: "LinkedIn",
+  indeed: "Indeed",
   agency: "人材紹介",
   jobboard: "求人サイト",
   direct: "企業採用",
@@ -57,7 +58,31 @@ function safePublicUrl(value) {
   if (!value) return "";
   try {
     const url = new URL(value);
-    if (url.protocol !== "https:" || url.search || url.hash || /\/messages\//i.test(url.pathname)) return "";
+    let decodedPath;
+    try {
+      decodedPath = decodeURIComponent(url.pathname);
+    } catch {
+      return "";
+    }
+    if (url.protocol !== "https:" || url.username || url.password || /\/messages(?:\/|$)/i.test(decodedPath)) return "";
+    const hostname = url.hostname.toLowerCase();
+    const isIndeedHost = hostname === "indeed.com" || hostname.endsWith(".indeed.com")
+      || hostname === "indeed.jp" || hostname.endsWith(".indeed.jp");
+    const isBizReachHost = hostname === "bizreach.jp" || hostname.endsWith(".bizreach.jp");
+    if (hostname === "www.linkedin.com") {
+      if (url.search || url.hash || !/^\/jobs\/view\/\d+\/?$/.test(url.pathname)) return "";
+    } else if (hostname === "linkedin.com" || hostname.endsWith(".linkedin.com")) {
+      return "";
+    } else if (isIndeedHost) {
+      const entries = [...url.searchParams.entries()];
+      if (hostname !== "jp.indeed.com" || url.pathname !== "/viewjob" || url.hash
+        || entries.length !== 1 || entries[0][0] !== "jk" || !/^[a-f0-9]{16}$/.test(entries[0][1])) return "";
+    } else {
+      if (url.search || url.hash) return "";
+      if (isBizReachHost
+        && (hostname !== "www.bizreach.jp" || !/^\/job-feed\/public-advertising\/[a-z0-9_-]+\/$/i.test(url.pathname))) return "";
+      if (/(?:unsubscribe|opt-?out|\/click|\/track)/i.test(decodedPath)) return "";
+    }
     return url.href;
   } catch {
     return "";
